@@ -387,3 +387,7 @@ table td {
 .subpage main .container .inner .box {
   flex-wrap: wrap;
 }
+
+.subpage main .container .inner .map {
+  margin-top: 20px;
+}
